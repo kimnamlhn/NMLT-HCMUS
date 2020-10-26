@@ -1,0 +1,1 @@
+int Dem(char str[], int n);

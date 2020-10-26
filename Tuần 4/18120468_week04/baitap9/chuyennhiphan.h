@@ -1,0 +1,1 @@
+void chuyennhiphan(int n);

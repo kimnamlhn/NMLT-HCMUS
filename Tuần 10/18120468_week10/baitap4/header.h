@@ -1,0 +1,1 @@
+int DemXuatHien(char str[], char c);

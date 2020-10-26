@@ -1,0 +1,1 @@
+void Xoa(char str[], int n, int i);
